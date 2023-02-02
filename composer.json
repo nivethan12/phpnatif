@@ -1,0 +1,17 @@
+{
+    "name": "nivethan/apinatif",
+    "autoload": {
+        "psr-4": {
+            "Nivethan\\Apinatif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nivethan12",
+            "email": "sureshkumarnivethan@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
